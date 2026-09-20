@@ -12,7 +12,7 @@ Tämä on projektin lopullisen pelin lähdekoodi, ei koulutuksessa käytetyn ymp
 
 ## Tutkimusartefakti ja tulosaineisto
 
-> **TODO:** Lisää tähän linkki tutkimusartefaktin päärepositorioon.
+> [https://github.com/TuniAntonVirtanen/results_and_artefact/blob/master/README.md](https://github.com/TuniAntonVirtanen/results_and_artefact/blob/master/README.md)
 
 ---
 
